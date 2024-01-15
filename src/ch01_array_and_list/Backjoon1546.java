@@ -1,4 +1,4 @@
-package array_and_list;
+package ch01_array_and_list;
 
 import java.util.Scanner;
 
