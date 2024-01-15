@@ -1,6 +1,5 @@
-package array_and_list;
+package ch01_array_and_list;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Backjoon11720 {
