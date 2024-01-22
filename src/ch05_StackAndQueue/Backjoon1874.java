@@ -1,4 +1,4 @@
-package ch05_Stack;
+package ch05_StackAndQueue;
 
 import java.util.Scanner;
 import java.util.Stack;
